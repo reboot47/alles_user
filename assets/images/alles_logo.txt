@@ -1,0 +1,3 @@
+This is a placeholder for the Alles logo. 
+The actual logo image should be placed here based on the provided design (second image).
+File format should be PNG or SVG.
